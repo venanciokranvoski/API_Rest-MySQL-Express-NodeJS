@@ -11,6 +11,7 @@ module.exports = {
     "rules": {
       "no-console": "Off",
       "class-methods-use-this": "off",
-      "import/first": "off"
+      "import/first": "off",
+      "no-param-rassing": "off",
     },
 }

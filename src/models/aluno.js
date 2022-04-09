@@ -9,7 +9,7 @@ export default class User extends Model {
         peso: Sequelize.FLOAT,
         altura: Sequelize.FLOAT
       }, {
-        Sequelize
+        sequelize
       })
     }
 }
